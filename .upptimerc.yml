@@ -28,12 +28,8 @@ status-website:
       href: https://brback.com
     - title: Blog
       href: https://brback.blog
-
-  # Internationalized footer (example: only our single copyright line)
   i18n:
-    en:
-      footer:
-        copyright: "© 2025 BRBack"
+    footer: "© 2025 BRBack"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
