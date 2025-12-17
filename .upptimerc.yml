@@ -28,8 +28,9 @@ status-website:
       href: https://brback.com
     - title: Blog
       href: https://brback.blog
-  i18n:
-    footer: "© 2025 BRBack"
+      
+i18n:
+  footer: © 2025 BRBack
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
