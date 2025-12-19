@@ -33,8 +33,8 @@ i18n:
   footer: © 2025 BRBack
 
 workflowSchedule:
-  graphs: "7 * * * *"              # every hour, at minute 7
-  responseTime: "11 */2 * * *"     # every 2 hours, at minute 11
+  graphs: "7,37 * * * *"           # every 30 minutes, at :07 and :37 
+  responseTime: "11 * * * *"       # every hour, at :11
   staticSite: "23 */12 * * *"      # every 12h, starting at 00:23
   summary: "37 */12 * * *"         # every 12h, starting at 00:37
   updateTemplate: "4 0 * * *"      # daily at 00:04 (slight skew)
