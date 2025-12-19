@@ -32,5 +32,14 @@ status-website:
 i18n:
   footer: © 2025 BRBack
 
+workflowSchedule:
+  graphs: "7 * * * *"              # every hour, at minute 7
+  responseTime: "11 */2 * * *"     # every 2 hours, at minute 11
+  staticSite: "23 */12 * * *"      # every 12h, starting at 00:23
+  summary: "37 */12 * * *"         # every 12h, starting at 00:37
+  updateTemplate: "4 0 * * *"      # daily at 00:04 (slight skew)
+  updates: "17 3 * * *"            # daily at 03:17 (slight skew)
+  uptime: "0 0 1 1 *"              # once a year (we are calling this one via API every minute)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
