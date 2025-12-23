@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/brback.com.ico",
     "slug": "brback-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 144,
-    "timeDay": 138,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {
-      "2025-12-22": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 142,
+    "timeDay": 133,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
+    "dailyMinutesDown": {}
   },
   {
     "name": "brback-blog",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/brback.blog.ico",
     "slug": "brback-blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 216,
-    "timeDay": 135,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {
-      "2025-12-22": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 211,
+    "timeDay": 133,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   }
 ]
