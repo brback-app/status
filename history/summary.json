@@ -4,35 +4,39 @@
     "url": "https://brback.com",
     "icon": "https://icons.duckduckgo.com/ip3/brback.com.ico",
     "slug": "brback-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 307,
-    "timeWeek": 187,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 306,
+    "timeWeek": 185,
+    "timeMonth": 190,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2025-12-26": 0
+    }
   },
   {
     "name": "brback-blog",
     "url": "https://brback.blog",
     "icon": "https://icons.duckduckgo.com/ip3/brback.blog.ico",
     "slug": "brback-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 151,
-    "timeWeek": 166,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {}
+    "time": 176,
+    "timeDay": 147,
+    "timeWeek": 165,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2025-12-26": 0
+    }
   }
 ]
