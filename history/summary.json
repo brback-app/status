@@ -4,19 +4,19 @@
     "url": "https://brback.com",
     "icon": "https://icons.duckduckgo.com/ip3/brback.com.ico",
     "slug": "brback-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.63%",
     "time": 244,
-    "timeDay": 254,
-    "timeWeek": 298,
+    "timeDay": 250,
+    "timeWeek": 297,
     "timeMonth": 244,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-01-08": 0,
+      "2026-01-08": 1,
       "2025-12-28": 119
     }
   },
@@ -27,8 +27,8 @@
     "slug": "brback-blog",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.63%",
     "time": 219,
@@ -37,7 +37,7 @@
     "timeMonth": 219,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-01-08": 0,
+      "2026-01-08": 1,
       "2025-12-28": 119
     }
   }
