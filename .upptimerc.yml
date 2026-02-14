@@ -7,10 +7,12 @@ sites:
     url: https://brback.com
     type: globalping
     location: World
+    status: [200, 403]
   - name: brback-blog
     url: https://brback.blog
     type: globalping
     location: World
+    status: [200, 403]
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
