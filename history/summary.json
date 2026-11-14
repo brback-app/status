@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 304,
-    "timeDay": 266,
+    "timeDay": 262,
     "timeWeek": 310,
     "timeMonth": 349,
     "timeYear": 304,
@@ -47,13 +47,13 @@
     "slug": "brback-blog",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 265,
-    "timeDay": 346,
-    "timeWeek": 265,
+    "timeDay": 342,
+    "timeWeek": 264,
     "timeMonth": 256,
     "timeYear": 265,
     "dailyMinutesDown": {
@@ -78,8 +78,7 @@
       "2026-03-07": 43,
       "2026-03-13": 46,
       "2026-03-20": 132,
-      "2026-04-09": 175,
-      "2026-11-14": 14
+      "2026-04-09": 175
     }
   }
 ]
